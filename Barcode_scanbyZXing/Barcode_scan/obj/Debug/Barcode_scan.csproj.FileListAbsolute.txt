@@ -1,0 +1,12 @@
+D:\Source\repo2017\Barcode_scan\Barcode_scan\bin\Debug\Barcode_scan.exe.config
+D:\Source\repo2017\Barcode_scan\Barcode_scan\bin\Debug\Barcode_scan.exe
+D:\Source\repo2017\Barcode_scan\Barcode_scan\bin\Debug\Barcode_scan.pdb
+D:\Source\repo2017\Barcode_scan\Barcode_scan\bin\Debug\zxing.dll
+D:\Source\repo2017\Barcode_scan\Barcode_scan\bin\Debug\zxing.pdb
+D:\Source\repo2017\Barcode_scan\Barcode_scan\bin\Debug\zxing.xml
+D:\Source\repo2017\Barcode_scan\Barcode_scan\obj\Debug\Barcode_scan.Form1.resources
+D:\Source\repo2017\Barcode_scan\Barcode_scan\obj\Debug\Barcode_scan.Properties.Resources.resources
+D:\Source\repo2017\Barcode_scan\Barcode_scan\obj\Debug\Barcode_scan.csproj.GenerateResource.Cache
+D:\Source\repo2017\Barcode_scan\Barcode_scan\obj\Debug\Barcode_scan.exe
+D:\Source\repo2017\Barcode_scan\Barcode_scan\obj\Debug\Barcode_scan.pdb
+D:\Source\repo2017\Barcode_scan\Barcode_scan\obj\Debug\Barcode_scan.csprojResolveAssemblyReference.cache
