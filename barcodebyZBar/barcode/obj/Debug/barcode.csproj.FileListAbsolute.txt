@@ -1,0 +1,12 @@
+D:\Source\repo2017\barcode\barcode\obj\Debug\barcode.csprojResolveAssemblyReference.cache
+D:\Source\repo2017\barcode\barcode\obj\Debug\barcode.BarCode.resources
+D:\Source\repo2017\barcode\barcode\obj\Debug\barcode.Properties.Resources.resources
+D:\Source\repo2017\barcode\barcode\obj\Debug\barcode.csproj.GenerateResource.Cache
+D:\Source\repo2017\barcode\barcode\bin\Debug\barcode.exe.config
+D:\Source\repo2017\barcode\barcode\bin\Debug\barcode.exe
+D:\Source\repo2017\barcode\barcode\bin\Debug\barcode.pdb
+D:\Source\repo2017\barcode\barcode\bin\Debug\libzbar-cil.dll
+D:\Source\repo2017\barcode\barcode\obj\Debug\barcode.exe
+D:\Source\repo2017\barcode\barcode\obj\Debug\barcode.pdb
+D:\Source\repo2017\barcode\barcode\bin\Debug\lib\libzbar-cil.dll
+D:\Source\repo2017\barcode\barcode\bin\Debug\lib\libzbar.dll
